@@ -36,6 +36,14 @@ Explores how each region of Mongolia could develop specialized circular industri
 This framework looks toward a 30–50 year development horizon where Mongolia could evolve into a balanced national system integrating governance, economy, environment, and knowledge infrastructure.
 
 ## Purpose
+## Additional Documentation
+
+More detailed concepts are available in the project Wiki:
+
+- Regional Development Concepts
+- Circular Economy in Mongolia
+- Future Mongolia System Vision
+  
 
 The goal of this project is to explore ideas and models that could support Mongolia’s sustainable and inclusive future development.
 
