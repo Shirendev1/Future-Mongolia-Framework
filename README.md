@@ -45,4 +45,8 @@ Green Industry Governance Transition Waste Systems Public Services
 
 ## Framework Principles
 - [Foundational Principles](foundational-principles.md)
+Humanity and Peace
 
+The ultimate goal of development is not only economic growth,
+but a peaceful society where people can live with dignity,
+fairness, and opportunity.
