@@ -40,9 +40,17 @@ This framework looks toward a 30–50 year development horizon where Mongolia co
 
 More detailed concepts are available in the project Wiki:
 
-- Regional Development Concepts
+## Project Structure
+
+Future Mongolia Framework includes several key components:
+
 - Circular Economy in Mongolia
-- Future Mongolia System Vision
+- Mongolia Circular Economy Map
+- Regional Development Concepts
+- Future Mongolia System
+- Digital & Knowledge Infrastructure
+  
+
   
 
 The goal of this project is to explore ideas and models that could support Mongolia’s sustainable and inclusive future development.
