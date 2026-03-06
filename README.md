@@ -28,25 +28,20 @@ By aligning projects with our vision, the Future Mongolia Framework aspires to b
 
 ## Vision
 
-- [Future Mongolia Vision](future-mongolia-vision.md)
+||| Resource Circular Digital Governance Economy Systems |||
+Mining Reform Recycling Data Platforms Industry
+Green Industry Governance Transition Waste Systems Public Services
+## Future Mongolia Framework
 
-## Project Planning
-Future Mongolia Framework
-
-            Future Mongolia
-                  |
-   ---------------------------------
-   |              |                |
-Resource       Circular         Digital
-Governance      Economy          Systems
-   |              |                |
-Mining Reform   Recycling      Data Platforms
-Industry        Green Industry Governance
-Transition      Waste Systems   Public Services
-
+                    Future Mongolia
+                           |
+        -------------------------------------------
+        |                    |                     |
+ Resource Governance    Circular Economy      Digital Systems
+        |                    |                     |
+   Mining Reform         Recycling           Data Platforms
+   Industry Policy       Green Industry      Smart Governance
+   Resource Transition   Waste Systems       Public Services
 
 
-- [System Architecture](SYSTEM_ARCHITECTURE.md)
-- [Roadmap](ROADMAP.md)
-- [Pilot Projects](PILOT_PROJECTS.md)
 
