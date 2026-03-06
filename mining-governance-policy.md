@@ -23,3 +23,6 @@ Mandatory restoration funds and environmental monitoring.
 5. Economic Diversification
 Mining revenues should support manufacturing, renewable energy, and technology sectors.
 
+## Relation to Future Mongolia Framework
+
+This policy supports the Future Mongolia Framework by promoting sustainable resource governance, economic diversification, and long-term national development.
