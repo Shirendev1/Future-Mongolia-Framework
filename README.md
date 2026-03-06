@@ -43,5 +43,6 @@ Green Industry Governance Transition Waste Systems Public Services
    Industry Policy       Green Industry      Smart Governance
    Resource Transition   Waste Systems       Public Services
 
-
+## Framework Principles
+- [Foundational Principles](foundational-principles.md)
 
