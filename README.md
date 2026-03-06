@@ -20,3 +20,19 @@ The system architecture is built on a modular design that supports scalability a
 - **Project C:** Creating an education platform that leverages technology to provide accessible education resources across rural areas.
 
 By aligning projects with our vision, the Future Mongolia Framework aspires to become a driving force in Mongolia's growth and progress.
+## Policy Areas
+
+- [Mining Governance Policy](mining-governance-policy.md)
+- [Circular Economy Policy](circular-economy-policy.md)
+- [Resource Transition Strategy](resource-transition.md)
+
+## Vision
+
+- [Future Mongolia Vision](future-mongolia-vision.md)
+
+## Project Planning
+
+- [System Architecture](SYSTEM_ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [Pilot Projects](PILOT_PROJECTS.md)
+
