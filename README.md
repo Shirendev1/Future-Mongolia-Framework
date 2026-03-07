@@ -67,6 +67,24 @@ The digital infrastructure research is developed in a separate repository:
 
 https://github.com/Shirendev1/future-thinking-digital-infrastructure
 
+## Key Systems and Research Projects
+
+### AI Resource Monitoring for Mongolia
+
+Mongolia should use artificial intelligence and digital monitoring systems to identify mineral resources and ensure transparent extraction.
+
+Goals:
+- Use AI to analyze geological and satellite data to identify mineral deposits
+- Monitor mining production in real time
+- Track exported minerals and resource flows
+- Improve transparency and prevent illegal extraction
+- Protect ecosystems through environmental monitoring
+
+This concept connects resource governance with digital infrastructure.
+
+
+
+
 
 
                     Future Mongolia
