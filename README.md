@@ -49,13 +49,19 @@ A strategic framework exploring sustainable development pathways for Mongolia.
 
 ## System Areas
 
-- Resource Governance
-- Circular Economy
-- Industrial & Engineering System
-- Renewable Energy System
-- Digital Infrastructure System
 
-### Digital Infrastructure
+1. Governance System
+2. Digital & Knowledge Infrastructure
+3. Sustainable Industry
+4. Circular Economy
+5. International Collaboration
+6. Natural Ecosystem & Tourism
+
+### Natural Ecosystem & Tourism
+
+The tourism and ecosystem development concept is explored in a separate project:
+
+https://github.com/Shirendev1/The-plan-to-make-Mongolia-global-tourism-paradise
 
 The digital infrastructure research is developed in a separate repository:
 
