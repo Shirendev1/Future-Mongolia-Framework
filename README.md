@@ -46,7 +46,21 @@ A strategic framework exploring sustainable development pathways for Mongolia.
 - System Architecture
 - Roadmap
 - Pilot Projects
-Posláno před 1 min
+
+## System Areas
+
+- Resource Governance
+- Circular Economy
+- Industrial & Engineering System
+- Renewable Energy System
+- Digital Infrastructure System
+
+### Digital Infrastructure
+
+The digital infrastructure research is developed in a separate repository:
+
+https://github.com/Shirendev1/future-thinking-digital-infrastructure
+
 
 
                     Future Mongolia
