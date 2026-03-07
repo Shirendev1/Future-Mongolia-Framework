@@ -37,4 +37,10 @@ The International Collaboration layer encourages partnerships and cooperation ac
 - Engages with all layers to foster synergies and joint initiatives.
 - Partners with the Governance Layer to ensure that international policies align with local regulations and practices.
 
+Related Project:
+
+Future Thinking: Digital Infrastructure for Mongolia
+
+https://github.com/Shirendev1/future-thinking-digital-infrastructure
+
 This framework outlines the interactions and responsibilities of each layer, ensuring a comprehensive approach to sustainable development.
