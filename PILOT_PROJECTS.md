@@ -77,6 +77,16 @@ To introduce circular economy practices into Mongolia’s mining sector, focusin
 - Creation of recycling and secondary material industries
 - Transition toward a more sustainable mining model
 
+### AI Resource Monitoring System
+
+Goal:
+Use artificial intelligence and satellite data to identify mineral deposits and monitor mining activities in real time.
+
+Key functions:
+- Mineral resource identification using AI
+- Real-time monitoring of extraction
+- Export tracking and transparency
+- Environmental monitoring
 ---
 
 ## Future Development
