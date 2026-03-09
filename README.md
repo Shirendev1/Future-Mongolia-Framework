@@ -56,6 +56,7 @@ A strategic framework exploring sustainable development pathways for Mongolia.
 4. Circular Economy
 5. International Collaboration
 6. Natural Ecosystem & Tourism
+7. Mongolia Digital Ecosystem
 
 ### Natural Ecosystem & Tourism
 
@@ -81,6 +82,8 @@ Goals:
 - Protect ecosystems through environmental monitoring
 
 This concept connects resource governance with digital infrastructure.
+
+
 
 
 
