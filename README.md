@@ -57,7 +57,8 @@ A strategic framework exploring sustainable development pathways for Mongolia.
 5. International Collaboration
 6. Natural Ecosystem & Tourism
 7. Mongolia Digital Ecosystem
-
+8. Urban Development & Built Environment
+   
 ### Natural Ecosystem & Tourism
 
 The tourism and ecosystem development concept is explored in a separate project:
