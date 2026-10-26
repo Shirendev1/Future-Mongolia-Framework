@@ -10,17 +10,13 @@ Mongolia's economy depends heavily on mining and raw resource exports. This fram
 
 ## Structure
 
-```
-                    Future Mongolia
-                           |
-        -------------------------------------------
-        |                    |                     |
- Resource Governance    Circular Economy      Digital Systems
-        |                    |                     |
-   Mining Reform         Recycling           Data Platforms
-   Industry Policy       Green Industry      Smart Governance
-   Resource Transition   Waste Systems       Public Services
-```
+The framework is organized in five connected layers (see [System Architecture](SYSTEM_ARCHITECTURE.md)):
+
+1. **Governance** — policies, transparency and accountability for resources
+2. **Digital & Knowledge Infrastructure** — data, platforms and monitoring tools
+3. **Sustainable Industry** — value-added, resource-efficient industries
+4. **Circular Economy** — reuse, recycling and closed material loops
+5. **International Collaboration** — partnerships and shared knowledge
 
 ## Documents
 
