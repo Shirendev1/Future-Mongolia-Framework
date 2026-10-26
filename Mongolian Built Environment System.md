@@ -54,3 +54,8 @@ Develop low-density residential neighborhoods that fit Mongolia's lifestyle and 
 | 4. International cooperation | Work with EU institutions and sustainability research groups |
 
 ## Place in the Framework
+Governance → Digital Infrastructure → Built Environment System → Circular Economy → Industrial Development
+
+---
+
+Back to the [Future Mongolia Framework](README.md).
