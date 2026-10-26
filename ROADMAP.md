@@ -1,19 +1,26 @@
 # Roadmap for Future Mongolia Framework
 
-## Short-Term Goals (0-2 years)
-- **Goal 1:** Establish a community of stakeholders and gather feedback.
-  - Milestone: Form a project team by Q2 2026.
-- **Goal 2:** Develop initial project prototypes.
-  - Milestone: Launch prototype by Q4 2026.
+The framework is guided by principles rather than fixed dates (see [Foundational Principles](foundational-principles.md)). This roadmap shows stages, and where the work stands today.
 
-## Mid-Term Goals (2-5 years)
-- **Goal 1:** Scale and refine project prototypes based on feedback.
-  - Milestone: Complete scaling efforts by Q2 2028.
-- **Goal 2:** Expand community engagement and partnerships.
-  - Milestone: Establish partnerships by Q4 2028.
+## Now — Ideas and first pilots
 
-## Long-Term Goals (5-10+ years)
-- **Goal 1:** Achieve project sustainability and impact.
-  - Milestone: Obtain long-term funding by Q4 2031.
-- **Goal 2:** Influence policy changes in relevant sectors.
-  - Milestone: Advocate for policy changes by Q2 2035.
+- ✅ Framework concept and policy documents published in this repository
+- ✅ A related working pilot: [MCBI-EPR-system](https://github.com/Shirendev1/MCBI-EPR-system), a battery registration and tracking portal
+- ✅ An independent draft battery EPR law proposal for Mongolia, published openly
+- 🔄 Gathering feedback from experts, organizations and the public
+
+## Next — Testing and partners
+
+- Test selected pilot ideas from [Pilot Projects](PILOT_PROJECTS.md) on a small scale
+- Build a group of partners: researchers, civil society, industry and public institutions
+- Add data, sources and real examples to the policy documents
+
+## Later — Scale and policy
+
+- Scale pilots that show clear results
+- Share findings with policymakers to support evidence-based policy
+- Seek long-term funding and international cooperation
+
+---
+
+Back to the [Future Mongolia Framework](README.md).
