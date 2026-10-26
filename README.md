@@ -35,7 +35,7 @@ Mongolia's economy depends heavily on mining and raw resource exports. This fram
 - [Resource Transition Strategy](resource-transition.md)
 
 **System concepts**
-- [Industrial & Engineering System](Industrial%20%26%20Engineering%20System) — heavy equipment repair and remanufacturing
+- [Industrial & Engineering System](Industrial%20%26%20Engineering%20System.md) — heavy equipment repair and remanufacturing
 - [Mongolian Built Environment System](Mongolian%20Built%20Environment%20System.md) — climate-adaptive housing and ger district renewal
 - [Green Urban Infrastructure](green-urban-infrastructure-system.md) — lessons from European cities
 - [Mongolian Digital Ecosystem](mongolian-digital-ecosystem.md) — .mn domain and Mongolian language online
